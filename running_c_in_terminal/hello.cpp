@@ -5,6 +5,7 @@ int main()
 {
     cout<< "Hi Guru"<< endl;
     cout << "Yup.Its the output!!"<< endl;
+    cout << "Hi Git, one line is added here"<< endl;
     return 0;
 }
 
